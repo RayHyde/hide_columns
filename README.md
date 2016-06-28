@@ -1,4 +1,4 @@
-<h1>A jQuery plugin that hides and shows columns</h1>
+<h1>A jQuery plugin that hides and shows table columns</h1>
 <h3>Bonus: a nifty CSS table striping</h3>
 
 <p>This jQuery plugin adds a "hide" button to each column of a normal table, that hides the column when clicked. A button appears beneath the table for each hidden column allowing you to restore it, plus an "unhide all" button.</p>
