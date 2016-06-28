@@ -59,7 +59,7 @@
 &lt;/script&gt;
 </pre>
 <p>The buttons to unhide the columns are sorted automatically. To turn this off and add a sort button, set the autoSort to "false":</p>
-					<pre>
+<pre>
 &lt;script&gt;
   $(&lt;name of the table here, e.g. "#myTable"&gt;).hideCols({
     autoSort: false
