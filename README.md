@@ -41,12 +41,12 @@
   $(&lt;name of the table here, e.g. "#myTable"&gt;).hideCols();
 &lt;/script&gt;
 </pre>
-				<p>You can run the plugin on multiple tables:</p>
-				<pre>
+<p>You can run the plugin on multiple tables:</p>
+<pre>
 &lt;script&gt;
   $('#myTable, #myTable2, #myTable3').hideCols();
 &lt;/script&gt
-					</pre>
+</pre>
 					
 <p>You can change the text in the buttons via the settings:</p>
 <pre>
